@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=p0tls)](https://solved.ac/p0tls1/)
 
 ## 💪Skills
-<h5> Languages </h5>
+<h5> Languages & Platforms </h5>
 
   <img src="https://img.shields.io/badge/Java-007396?style=round-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=round-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=round-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=round-square&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=round-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=round-square&logo=Android Studio&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-E34F26?style=round-square&logo=HTML&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=round-square&logo=CSS&logoColor=white"/> 
   
