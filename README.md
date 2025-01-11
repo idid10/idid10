@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmin-0&count_bg=%23555555&title_bg=%23323232&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![Youngshin's GitHub stats](https://github-readme-stats.vercel.app/api?username=idid10&show_icons=true&theme=cobalt)
-
+![Youngshin's GitHub stats](https://github-readme-stats.vercel.app/api?username=idid10&show_icons=true&theme=buefy)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=p0tls)](https://solved.ac/p0tls1/)
 
 ## 💪Skills
